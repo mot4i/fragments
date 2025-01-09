@@ -2,7 +2,7 @@
     "_base": "https://raw.githubusercontent.com/mot4i/fragments/main/",
     
     "sit":
-    [{
+    {
     "a0":"sit/sitar01(A)_Down_Strum.wav",
     "sit/sitar02(A)Roll_In.wav",
     "sit/sitar03(A).wav",
@@ -18,7 +18,7 @@
     "sit/sitar13(G)Roll_In.wav",
     "sit/sitar14_(G).wav",
     "sit/sitar15(E)Roll_In.wav"
-    } ]
+    } 
 
 
 }
