@@ -11,18 +11,18 @@
     ],
     "fragments_sitar":
     [
-         "fragments_sitar/sitar01(A)_Down_Strum.wav",
+       "a"  "fragments_sitar/sitar01(A)_Down_Strum.wav",
          "fragments_sitar/sitar02(A)Roll_In.wav",
          "fragments_sitar/sitar03(A).wav",
         "fragments_sitar/sitar04(C)Roll_In.wav",
-        "fragments_sitar/sitar05(C).wav",
+      "c"  "fragments_sitar/sitar05(C).wav",
         "fragments_sitar/sitar06(D)Down_Strum.wav",
         "fragments_sitar/sitar07(D)Roll_In.wav",
-        "fragments_sitar/sitar08(D).wav",
-        "fragments_sitar/sitar09(E).wav",
+      "d"  "fragments_sitar/sitar08(D).wav",
+       "e" "fragments_sitar/sitar09(E).wav",
         "fragments_sitar/sitar10(F)Down_Strum.wav",
         "fragments_sitar/sitar11(F)Roll_In.wav",
-        "fragments_sitar/sitar12(F).wav",
+      "f"  "fragments_sitar/sitar12(F).wav",
         "fragments_sitar/sitar13(G)Roll_In.wav",
         "fragments_sitar/sitar14_(G).wav",
         "fragments_sitar/sitar15(E)Roll_In.wav"
