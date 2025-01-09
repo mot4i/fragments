@@ -1,7 +1,7 @@
 {
-    "_base": "https://raw.githubusercontent.com/mot4i/sample_pack/main/",
+    "_base": "https://raw.githubusercontent.com/mot4i/fragments/main/",
     
-    "eth_st":
+    "fragments_eth_st":
     [
         "mot4i_ethnic_st/ethnic01(C down to F).wav",
         "mot4i_ethnic_st/ethnic02(D up to D#).wav",
@@ -9,23 +9,23 @@
         "mot4i_ethnic_st/ethnic04(F to F# to F).wav",
         "mot4i_ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
     ],
-    "sit":
+    "fragments_sitar":
     [
-         "mot4i_sitar/sitar01(A)_Down_Strum.wav",
-         "mot4i_sitar/sitar02(A)Roll_In.wav",
-         "mot4i_sitar/sitar03(A).wav",
-        "mot4i_sitar/sitar04(C)Roll_In.wav",
-        "mot4i_sitar/sitar05(C).wav",
-        "mot4i_sitar/sitar06(D)Down_Strum.wav",
-        "mot4i_sitar/sitar07(D)Roll_In.wav",
-        "mot4i_sitar/sitar08(D).wav",
-        "mot4i_sitar/sitar09(E).wav",
-        "mot4i_sitar/sitar10(F)Down_Strum.wav",
-        "mot4i_sitar/sitar11(F)Roll_In.wav",
-        "mot4i_sitar/sitar12(F).wav",
-        "mot4i_sitar/sitar13(G)Roll_In.wav",
-        "mot4i_sitar/sitar14_(G).wav",
-        "mot4i_sitar/sitar15(E)Roll_In.wav"
+         "fragments_sitar/sitar01(A)_Down_Strum.wav",
+         "fragments_sitar/sitar02(A)Roll_In.wav",
+         "fragments_sitar/sitar03(A).wav",
+        "fragments_sitar/sitar04(C)Roll_In.wav",
+        "fragments_sitar/sitar05(C).wav",
+        "fragments_sitar/sitar06(D)Down_Strum.wav",
+        "fragments_sitar/sitar07(D)Roll_In.wav",
+        "fragments_sitar/sitar08(D).wav",
+        "fragments_sitar/sitar09(E).wav",
+        "fragments_sitar/sitar10(F)Down_Strum.wav",
+        "fragments_sitar/sitar11(F)Roll_In.wav",
+        "fragments_sitar/sitar12(F).wav",
+        "fragments_sitar/sitar13(G)Roll_In.wav",
+        "fragments_sitar/sitar14_(G).wav",
+        "fragments_sitar/sitar15(E)Roll_In.wav"
      ],
     
     "gl":
