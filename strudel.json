@@ -1,14 +1,6 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/fragments/main/",
     
-    "eth_st":
-    [
-        "mot4i_ethnic_st/ethnic01(C down to F).wav",
-        "mot4i_ethnic_st/ethnic02(D up to D#).wav",
-        "mot4i_ethnic_st/ethnic03(F down to E).wav",
-        "mot4i_ethnic_st/ethnic04(F to F# to F).wav",
-        "mot4i_ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
-    ],
     "sit":
     [{
     "a0":"sit/sitar01(A)_Down_Strum.wav",
@@ -26,31 +18,7 @@
     "sit/sitar13(G)Roll_In.wav",
     "sit/sitar14_(G).wav",
     "sit/sitar15(E)Roll_In.wav"
-    } ],
-    
-    "gl":
-    [
-        "mot4i_glitches/Glitch01.wav",
-        "mot4i_glitches/Glitch02.wav",
-        "mot4i_glitches/Glitch03.wav",
-        "mot4i_glitches/Glitch04.wav",
-        "mot4i_glitches/Glitch05.wav",
-        "mot4i_glitches/Glitch06.wav",
-        "mot4i_glitches/Glitch07.wav",
-        "mot4i_glitches/Glitch08.wav",
-        "mot4i_glitches/Glitch09.wav",
-        "mot4i_glitches/Glitch10.wav",
-        "mot4i_glitches/Glitch11.wav"
-    ],
-    "st": [
-      "mot4i_st/C_StringTexture.wav",
-      "mot4i_st/C_StringTexture01.wav",
-      "mot4i_st/Cm7_StringTexture.wav",
-      "mot4i_st/D_StringTexture.wav",
-      "mot4i_st/D9_StringTexture.wav",
-      "mot4i_st/F_StringTexture03.wav",
-      "mot4i_st/F#m7_StringTexture.wav",
-      "mot4i_st/Ab11_StringTexture01.wav",
-      "mot4i_st/Ab13_StringTexture02.wav"
-    ]
+    } ]
+
+
 }
