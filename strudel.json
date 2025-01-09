@@ -11,21 +11,21 @@
     ],
     "fragments_sitar":
     [{
-       "a":"fragments_sitar/sitar01(A)_Down_Strum.wav",
-         "fragments_sitar/sitar02(A)Roll_In.wav",
-         "fragments_sitar/sitar03(A).wav",
-        "fragments_sitar/sitar04(C)Roll_In.wav",
-      "c": "fragments_sitar/sitar05(C).wav",
-        "fragments_sitar/sitar06(D)Down_Strum.wav",
-        "fragments_sitar/sitar07(D)Roll_In.wav",
-      "d": "fragments_sitar/sitar08(D).wav",
-       "e": "fragments_sitar/sitar09(E).wav",
-        "fragments_sitar/sitar10(F)Down_Strum.wav",
-        "fragments_sitar/sitar11(F)Roll_In.wav",
-      "f": "fragments_sitar/sitar12(F).wav",
-        "fragments_sitar/sitar13(G)Roll_In.wav",
-        "fragments_sitar/sitar14_(G).wav",
-        "fragments_sitar/sitar15(E)Roll_In.wav"
+    "a":"fragments_sitar/sitar01(A)_Down_Strum.wav",
+    "fragments_sitar/sitar02(A)Roll_In.wav",
+    "fragments_sitar/sitar03(A).wav",
+    "fragments_sitar/sitar04(C)Roll_In.wav",
+    "c": "fragments_sitar/sitar05(C).wav",
+    "fragments_sitar/sitar06(D)Down_Strum.wav",
+    "fragments_sitar/sitar07(D)Roll_In.wav",
+    "d": "fragments_sitar/sitar08(D).wav",
+    "e": "fragments_sitar/sitar09(E).wav",
+    "fragments_sitar/sitar10(F)Down_Strum.wav",
+    "fragments_sitar/sitar11(F)Roll_In.wav",
+    "f":"fragments_sitar/sitar12(F).wav",
+    "fragments_sitar/sitar13(G)Roll_In.wav",
+    "fragments_sitar/sitar14_(G).wav",
+    "fragments_sitar/sitar15(E)Roll_In.wav"
     } ],
     
     "gl":
@@ -52,33 +52,5 @@
       "mot4i_st/F#m7_StringTexture.wav",
       "mot4i_st/Ab11_StringTexture01.wav",
       "mot4i_st/Ab13_StringTexture02.wav"
-    ],
-    "mot4i_cp": [
-        "mot4i_cl/clap01.wav",
-        "mot4i_cl/clap02.wav",
-        "mot4i_cl/clap03.wav"
-    ],
-    "mot4i_bd": [
-        "mot4i_k/kick01.wav",
-        "mot4i_k/kick02.wav",
-        "mot4i_k/kick03.wav",
-        "mot4i_k/kick04.wav"
-    ],
-
-        "mot4i_oh": [
-        "mot4i_oh/hihat_oh01.wav",
-        "mot4i_oh/hihat_oh02.wav"
-    ],
-
-        "mot4i_ch": [
-        "mot4i_hh/hihat01.wav",
-        "mot4i_hh/hihat02.wav"
-    ],
-    
-    "mot4i_sd": [
-        "mot4i_sn/snare01.wav",
-        "mot4i_sn/snare02.wav",
-        "mot4i_sn/snare03.wav",
-        "mot4i_sn/snare04.wav"
     ]
 }
