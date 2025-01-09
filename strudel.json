@@ -9,23 +9,23 @@
         "mot4i_ethnic_st/ethnic04(F to F# to F).wav",
         "mot4i_ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
     ],
-    "fragments_sitar":
+    "sit":
     [{
-    "a0":"fragments_sitar/sitar01(A)_Down_Strum.wav",
-    "fragments_sitar/sitar02(A)Roll_In.wav",
-    "fragments_sitar/sitar03(A).wav",
-    "fragments_sitar/sitar04(C)Roll_In.wav",
+    "a0":"sit/sitar01(A)_Down_Strum.wav",
+    "sit/sitar02(A)Roll_In.wav",
+    "sit/sitar03(A).wav",
+    "sit/sitar04(C)Roll_In.wav",
     "c0": "fragments_sitar/sitar05(C).wav",
-    "fragments_sitar/sitar06(D)Down_Strum.wav",
-    "fragments_sitar/sitar07(D)Roll_In.wav",
-    "d0": "fragments_sitar/sitar08(D).wav",
-    "e0": "fragments_sitar/sitar09(E).wav",
-    "fragments_sitar/sitar10(F)Down_Strum.wav",
-    "fragments_sitar/sitar11(F)Roll_In.wav",
-    "f0":"fragments_sitar/sitar12(F).wav",
-    "fragments_sitar/sitar13(G)Roll_In.wav",
-    "fragments_sitar/sitar14_(G).wav",
-    "fragments_sitar/sitar15(E)Roll_In.wav"
+    "sit/sitar06(D)Down_Strum.wav",
+    "sit/sitar07(D)Roll_In.wav",
+    "d0": "sit/sitar08(D).wav",
+    "e0": "sit/sitar09(E).wav",
+    "sit/sitar10(F)Down_Strum.wav",
+    "sit/sitar11(F)Roll_In.wav",
+    "f0":"sit/sitar12(F).wav",
+    "sit/sitar13(G)Roll_In.wav",
+    "sit/sitar14_(G).wav",
+    "sit/sitar15(E)Roll_In.wav"
     } ],
     
     "gl":
