@@ -32,5 +32,16 @@
     "gl/Glitch10.wav",
     "gl/Glitch11.wav"
 
-]  
+],
+ "st": [
+      "st/C_StringTexture.wav",
+      "st/C_StringTexture01.wav",
+      "st/Cm7_StringTexture.wav",
+      "st/D_StringTexture.wav",
+      "st/D9_StringTexture.wav",
+      "st/F_StringTexture03.wav",
+      "st/F#m7_StringTexture.wav",
+      "st/Ab11_StringTexture01.wav",
+      "st/Ab13_StringTexture02.wav"
+    ]
 }
