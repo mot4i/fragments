@@ -18,6 +18,19 @@
         "sit/sitar02(A)Roll_In.wav",
         "sit/sitar03(A).wav"
     ],
-
     
+"gl": [
+    "gl/Glitch01.wav",
+    "gl/Glitch02.wav",
+    "gl/Glitch03.wav",
+    "gl/Glitch04.wav",
+    "gl/Glitch05.wav",
+    "gl/Glitch06.wav",
+    "gl/Glitch07.wav",
+    "gl/Glitch08.wav",
+    "gl/Glitch09.wav",
+    "gl/Glitch10.wav",
+    "gl/Glitch11.wav"
+
+]  
 }
