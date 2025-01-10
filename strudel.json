@@ -1,11 +1,10 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/fragments/main/",
     "sit": [
-        {
-            "d0": "sit/sitar08(D).wav"
-        },
+       
         "sit/sitar04(C)Roll_In.wav",
         "sit/sitar05(C).wav",
+        "sit/sitar08(D).wav",
         "sit/sitar06(D)Down_Strum.wav",
         "sit/sitar07(D)Roll_In.wav",
         "sit/sitar15(E)Roll_In.wav",
@@ -18,5 +17,7 @@
         "sit/sitar01(A)_Down_Strum.wav",
         "sit/sitar02(A)Roll_In.wav",
         "sit/sitar03(A).wav"
-    ]
+    ],
+
+    
 }
