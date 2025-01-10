@@ -1,5 +1,14 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/fragments/main/",
+
+     "ethnic_st":
+    [
+        "ethnic_st/ethnic01(C down to F).wav",
+        "ethnic_st/ethnic02(D up to D#).wav",
+        "ethnic_st/ethnic03(F down to E).wav",
+        "ethnic_st/ethnic04(F to F# to F).wav",
+        "ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
+    ],
     "sit": [
        
         "sit/sitar04(C)Roll_In.wav",
