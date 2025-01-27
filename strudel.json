@@ -11,7 +11,7 @@
     ],
 
          "bigb":
-    [{
+    {
         "d1":"bigb/FoldLow-D.wav",
         "d2":"bigb/LowModuRing-D.wav",
         "f#1":"bigb/AmpRaze-F#.wav",
@@ -19,7 +19,7 @@
         "a1":"bigb/FoldLow-A.wav",
         "a2":"bigb/LowModuRing-A.wav",
         "b1":"bigb/NovSplank-B.wav"
-    }  ],
+    }  ,
     
     "sit": [
        
