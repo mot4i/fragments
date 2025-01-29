@@ -10,7 +10,7 @@
         "ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
     ],
 
-         "bigb":
+         "bigb": [
     {
         "d1":"bigb/FoldLow-D.wav",
         "d2":"bigb/LowModuRing-D.wav",
@@ -19,7 +19,7 @@
         "a1":"bigb/FoldLow-A.wav",
         "a2":"bigb/LowModuRing-A.wav",
         "b1":"bigb/NovSplank-B.wav"
-    }  ,
+    } ] ,
     
     "sit": [
        
